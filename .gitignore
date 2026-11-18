@@ -1,0 +1,9 @@
+.env
+.venv/
+__pycache__/
+data/
+*.pb
+*.pb.gz
+.aws-sam/
+samconfig.toml
+.DS_Store
